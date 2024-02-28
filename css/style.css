@@ -22,4 +22,10 @@
   height: 30px;
   width: 100%;
 }
-
+.splide__pagination button{
+  background: linear-gradient(to bottom right, #ff5050 38%, #0066ff 60%); 
+}
+.splide__pagination button.is-active {
+  background: linear-gradient(to top right, #99cc00 38%, #009900 60%);
+  
+}
