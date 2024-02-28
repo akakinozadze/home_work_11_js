@@ -1,9 +1,9 @@
 "use strict";
 
-var splide = new Splide(".splide", {
+const splide = new Splide(".splide", {
   type: "loop",
   drag: "free",
-  arrows: "#cc0000",
+  arrows: true,
   pagination: true,
   perPage: 2,
   autoplay: true,
@@ -13,5 +13,3 @@ var splide = new Splide(".splide", {
 });
 
 splide.mount();
-
-

@@ -11,3 +11,10 @@
   background: linear-gradient(to bottom, #ccffff 0%, #993300 100%);
   border-radius: 18px;
 }
+.splide__arrow.splider-akaki {
+  background: linear-gradient(to bottom right, #99ccff 0%, #ffcc66 100%);
+  max-width: 40px;
+  height: 40px;
+  width: 100%;
+}
+
