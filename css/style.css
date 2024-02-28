@@ -1,0 +1,13 @@
+.image_1 {
+  width: 100%;
+  height: 600px;
+  object-fit: cover;
+  border-radius: 18px;
+}
+.splide__track {
+  min-height: 1000px;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(to bottom, #ccffff 0%, #993300 100%);
+  border-radius: 18px;
+}
