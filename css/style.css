@@ -12,9 +12,14 @@
   border-radius: 18px;
 }
 .splide__arrow.splider-akaki {
-  background: linear-gradient(to bottom right, #99ccff 0%, #ffcc66 100%);
+  background: linear-gradient(to bottom right, #467bb0 0%, #b88622 100%);
   max-width: 40px;
   height: 40px;
+  width: 100%;
+}
+.splide__arrow svg.svg2{
+  max-width: 30px;
+  height: 30px;
   width: 100%;
 }
 
