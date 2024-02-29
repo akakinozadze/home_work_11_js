@@ -21,11 +21,16 @@
   max-width: 30px;
   height: 30px;
   width: 100%;
+  border-radius: 100px;
 }
 .splide__pagination button{
-  background: linear-gradient(to bottom right, #ff5050 38%, #0066ff 60%); 
+  background: linear-gradient(to bottom right, #a39090 38%, #6989ba 60%); 
+  border: 2px solid rgb(26, 120, 26);
+  width: 15px;
+  height: 15px;
+
 }
 .splide__pagination button.is-active {
-  background: linear-gradient(to top right, #99cc00 38%, #009900 60%);
+  background: linear-gradient(to top right, #bad078 38%, #58c658 60%);
   
 }
